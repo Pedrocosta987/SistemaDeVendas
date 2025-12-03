@@ -6,10 +6,17 @@ Tecnologias e Conceitos Utilizados
 ---
 
 • SQL
+
 • DDL (CREATE TABLE)
+
 • DML (INSERT, UPDATE)
+
 • Relacionamento 1:N
+
 • SELECT com JOIN
+
 • Filtros com WHERE
+
 • Ordenação com ORDER BY
+
 • Funções de agregação (SUM, COUNT)
