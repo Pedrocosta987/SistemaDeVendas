@@ -1,3 +1,6 @@
+CREATE DATABASE sistemaDeVendas;
+USE sistemaDeVendas;
+
 CREATE TABLE clientes (
     id_cliente INTEGER PRIMARY KEY,
     nome TEXT NOT NULL,
