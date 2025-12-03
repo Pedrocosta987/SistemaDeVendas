@@ -1,4 +1,4 @@
-# Projeto SQL – Sistema de Biblioteca
+# Projeto SQL – Loja Virtual
 
 Este projeto foi feito para praticar consultas SQL, criação de tabelas, inserção de dados, relacionamentos e SELECTs com JOIN.
 
